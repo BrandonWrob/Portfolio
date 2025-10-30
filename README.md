@@ -9,6 +9,7 @@
 - [Personal Projects](#personal-projects)
   - [ExtendedManager](#extended-manager)
   - [Security Home-Labs](#security-home-labs)
+  - [Data-structure and Algorithm Workshops](#data-structure-and-algorithm-workshops)
 - [Certifications](#certifications)
   - [CompTIA Security+](#comptia-security)
   - [Pre Security Learning Path](#pre-security-learning-path)
@@ -96,6 +97,17 @@ Active member of the HackPack club where I participate in CTF tournaments to hon
 Conducted hands-on testing of security vulnerabilities including injection attacks (SQL, XSS, shellcode), request forgeries (CSRF, SSRF), broken access controls, and weak encryption. Also performed binary reverse engineering of ELF files using Ghidra.
 
 Performed a comprehensive security assessment of OpenEMS using tools such as Browser DevTools, OWASP Dependency-Check, OWASP ZAP, and Snyk, identifying 93 vulnerable dependencies, insecure session expiration, login-related denial-of-service risks, insufficient server-side validation, and MIME sniffing vulnerabilities—all of which were reported and accepted via their GitHub repository.
+
+## Data-structure and Algorithm Workshops
+
+Implemented and optimized a variety of data structures from scratch in Java including array-based lists and queues, linked lists, stacks, general and binary search trees, balanced search trees, up-trees, hash tables with advanced collision resolution techniques, heaps, and graph representations via adjacency lists and matrices
+
+Developed and applied a comprehensive range of algorithms, including iterative, recursive, and sorting (Bubble, Insertion, Selection, Merge, Quick, Heap, Counting, Radix) techniques, alongside tree traversals and graph algorithms (Bi-Directional BFS, DFS, Minimum Spanning Trees, Shortest Paths). Leveraged computational paradigms such as Divide and Conquer, Brute-Force, Dynamic Programming, and Greedy Algorithms for optimized problem-solving.
+
+Worked on complexity analysis for space and efficiency by comparing hypothetical and real runtimes and space usage across diverse structures and algorithms. Found worst-case scenarios rarely accurate, while average case more accurate for large inputs; recursive structures proved unreliable for substantial data.
+
+Note: This project is stored in a private repository due to regulations that prohibit posting course-related work publicly. However, I’m permitted to share and discuss the code during interviews with non-students—feel free to message me if you’re interested!
+
 
 # Certifications
 
