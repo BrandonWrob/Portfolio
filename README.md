@@ -8,7 +8,9 @@
   - [Build It Clean: Large-Scale Detection of Code Smells in Build Scripts (ASE, IEEE)](#build-it-clean-large-scale-detection-of-code-smells-in-build-scripts-ase-ieee)
 - [Personal Projects](#personal-projects)
   - [ExtendedManager](#extended-manager)
-
+- [Certifications](#certifications)
+  - [CompTIA Security+](#comptia-security+)
+    
 # Publications
 
 ## ChronoCTI: Mining Knowledge Graph of Temporal Relations Among Cyberattack Actions published
@@ -82,3 +84,11 @@ Ongoing development includes enhanced analytics for managers and deeper AWS clou
 ![Image_Failed](Entity_DTO_Mapper_Repo.png)
 ![Image_Failed](Config_Security_Exception.png)
 ![Image_Failed](Service_Impl_Controller.png)
+
+# Certifications
+
+## CompTIA Security+
+
+Issued: May 2025
+ID: COMP001022402515
+URL: https://www.credly.com/badges/8d4a48da-d53c-4da9-82f0-6be18a157091/linked_in_profile
