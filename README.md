@@ -9,7 +9,7 @@
 - [Personal Projects](#personal-projects)
   - [ExtendedManager](#extended-manager)
 - [Certifications](#certifications)
-  - [CompTIA Security+](#comptia-security+)
+  - [CompTIA Security+](#comptia-security)
     
 # Publications
 
