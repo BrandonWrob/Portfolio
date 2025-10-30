@@ -92,3 +92,4 @@ Ongoing development includes enhanced analytics for managers and deeper AWS clou
 Issued: May 2025
 ID: COMP001022402515
 URL: https://www.credly.com/badges/8d4a48da-d53c-4da9-82f0-6be18a157091/linked_in_profile
+![Image_Failed](sec+.png)
