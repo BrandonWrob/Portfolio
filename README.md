@@ -152,6 +152,7 @@ The NC State environment made this possible thanks to my peers, professors, and 
 Activities and societies: Football | Key Club Member | National Honor Society Member | Part-Time Harris Teeter Associate
 
 ![Image_Failed](Football.png)
+![Image_Failed](Graduation.png)
 
 # Personal Projects
 
