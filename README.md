@@ -1,6 +1,12 @@
 # Portfolio
 
 ### 📑 Table of Contents
+- [Experience](#experience)
+  - [Software Security Researcher at NCSU](#software-security-researcher-at-ncsu)
+  - [Software Engineer Intern at Astro AI Trading (Startup)](#software-engineer-intern-at-astro-ai-trading-startup)
+  - [Resident Advisor at NCSU](#resident-advisor-at-ncsu)
+  - [Summer Student Outreach Leader at NCSU](#summer-student-outreach-leader-at-ncsu)
+  - [Cashier at Harris Teeter](#cashier-at-harris-teeter)
 - [Publications](#publications)
   - [ChronoCTI: Mining Knowledge Graph of Temporal Relations Among Cyberattack Actions (ICDM, IEEE)](#chronocti-mining-knowledge-graph-of-temporal-relations-among-cyberattack-actions-icdm-ieee)
   - [Towards a Taxonomy of Challenges in Security Control Implementation (ACSAC, IEEE)](#towards-a-taxonomy-of-challenges-in-security-control-implementation-acsac-ieee)
@@ -19,6 +25,46 @@
   - [National Honor Society](#national-honor-society)
   - [Key Club](#key-club)
     
+# Experience
+
+## Software Security Researcher at NCSU
+
+Dates: Aug 2023 - Present
+
+Description:
+
+Currently a Undergraduate Security Researcher under the mentorship of Dr. Laurie, working on projects at the intersection of software, security, and AI. This work has resulted in publications at IEEE-ICDM 2024, IEEE-ACSAC 2024, IEEE-ASE 2025, and in the Springer Knowledge and Information Systems (KAIS 2025).
+
+August 2023 - December 2023: Trained a RoBERTa model on 1.34 million adversary technique pairs to analyze cyber reports and establish chronological sequences of events, achieving precision rates of 77% (concurrent), 65% (before), 97% (null), and 61% (simultaneous), ultimately pinpointing 718 instances across 124 unique temporal patterns.
+
+January 2024 - June 2024: Categorized challenges in implementing 821 ATT&CK security controls by collecting 2,463 responses from ChatGPT, Gemini, and Bing Copilot. Extracted 1,824 themes, consolidating them into 73 challenges across 8 categories (e.g., Cost, Disruption, Human Factors). Mapped 4,315 control-challenge pairs to build a taxonomy of real-world issues, while also training and onboarding a new research assistant.
+
+January 2025 - May 2025: Conducted a large-scale empirical study on build script quality across 4,877 OSS repos (5,882 scripts, 2,000 issues), identifying 13 smell categories (10,895 instances). Developed Sniffer, a static analysis tool (89% precision/88% recall), which outperformed six state-of-the-art LLMs (e.g., ChatGPT-4o, Mistral, LLaMA) in zero-shot detection (best LLM recall: 61.75%).
+
+## Software Engineer Intern at Astro AI Trading (Startup)
+
+Dates: Sept 2024 - Dec 2024
+
+Description: I completed a semester-long internship at Astro AI Trading (Startup), where I focused on implementing functionality in the backend. My responsibilities included coding, debugging, and deploying features while collaborating closely with the development team. During my time at Astro AI, I successfully Developed group management functionalities in Go, with PostgreSQL for data storage. Implemented entities, repositories, and controllers for groups, members, and forums resulting in 14 Okta authenticated API endpoints for the application. I also enhanced search functionality by implementing data sanitation, adding tags, and incorporating near-accuracy measurements, improving both security and user experience.
+
+## Resident Advisor at NCSU
+
+Dates: Aug 2023 - Present
+
+Description: As a Resident Advisor during the 2023–2024 and 2025–2026 academic years, I thrive in creating an inclusive and vibrant campus community by planning engaging events that foster student connections and personal growth. My responsibilities include assisting first-year students as they transition to college life, mediating conflicts, and planning community-building events that promote connection and belonging.
+
+## Summer Student Outreach Leader at NCSU
+
+Dates: May 2024 - Aug 2024
+
+Description: Supported a free, credit-bearing climate change course for incoming students, helping them earn 3 humanities credits prior to their start-date. Assisted with grading assignments, hosting office hours, and providing academic support throughout the course. Organized and led monthly Q&A sessions to guide new students on dorm life, class management, campus resources, and student employment
+
+## Cashier at Harris Teeter
+
+Dates: July 2020 - Aug 2021
+
+Description: Diligently served as a part-time Cashier at Harris Teeter while excelling as a full-time student at Leesville Road High School. Skillfully handled customer transactions, efficiently operated self-checkouts, and provided exceptional customer service. Collaborated with various departments, showcasing adaptability and teamwork. #CustomerService #RetailExperience #TeamPlayer
+
 # Publications
 
 ## ChronoCTI: Mining Knowledge Graph of Temporal Relations Among Cyberattack Actions published
