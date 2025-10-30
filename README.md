@@ -10,6 +10,7 @@
   - [ExtendedManager](#extended-manager)
   - [Security Home-Labs](#security-home-labs)
   - [Data-structure and Algorithm Workshops](#data-structure-and-algorithm-workshops)
+  - [Implemented SHA-256 in C](#implemented-sha-256-in-c)
 - [Certifications](#certifications)
   - [CompTIA Security+](#comptia-security)
   - [Pre Security Learning Path](#pre-security-learning-path)
@@ -108,6 +109,29 @@ Worked on complexity analysis for space and efficiency by comparing hypothetical
 
 Note: This project is stored in a private repository due to regulations that prohibit posting course-related work publicly. However, I’m permitted to share and discuss the code during interviews with non-students—feel free to message me if you’re interested!
 
+## Implemented SHA-256 in C
+
+Implemented a full SHA-256 hashing algorithm in C, adhering closely to the FIPS 180-4 standard. The implementation includes:
+
+Bitwise rotation logic via a modular rotate() function for 32-bit words.
+
+Core logical functions (Ch, Maj, Σ0, Σ1, etc.) as defined in the SHA-256 specification.
+
+Message parsing and expansion: Converts 64-byte message blocks into 64 32-bit words using a combination of byte-wise shifts and XOR-based extension logic.
+
+Padding according to SHA-256 rules: appends a 1 bit, followed by zeroes, and ends with the 64-bit representation of the message length.
+
+Compression function: Processes each block with 64 rounds of transformation using SHA-256 constants (K[t]), temporary working variables (A–H), and two derived terms T1 and T2 per round.
+
+State management: Dynamically allocates and zero-initializes a SHAState struct to track current hash values, pending message bytes, and total processed length.
+
+Incremental hashing support: The update() function processes arbitrary-length data in a streaming fashion, chunking it into 512-bit blocks and queuing incomplete blocks.
+
+Final digest computation: Finalizes the hash with proper padding and length encoding, then outputs the 256-bit (32-byte) digest as 8 32-bit words.
+
+This implementation emphasizes portability and transparency, using only standard C libraries (stdlib.h, string.h) and explicit bitwise operations instead of relying on platform-specific intrinsics.
+
+Note: This project is stored in a private repository due to regulations that prohibit posting course-related work publicly. However, I’m permitted to share and discuss the code during interviews with non-students—feel free to message me if you’re interested!
 
 # Certifications
 
