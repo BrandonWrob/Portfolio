@@ -17,7 +17,7 @@
 - [Organizations](#organizations)
   - [HackPack](#hackpack)
   - [National Honor Society](#national-honor-society)
-  - [Key Club)[#key-club)
+  - [Key Club](#key-club)
     
 # Publications
 
