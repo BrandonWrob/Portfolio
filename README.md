@@ -137,9 +137,13 @@ Additionally, my involvement in group projects, research, and as a Resident Advi
 
 The NC State environment made this possible thanks to my peers, professors, and bosses—Go Pack!
 
+![Image_Failed](RA_Group_Photo.png)
+
 ## Leesville Road High School
 
 Activities and societies: Football | Key Club Member | National Honor Society Member | Part-Time Harris Teeter Associate
+
+![Image_Failed](Football.png)
 
 # Personal Projects
 
