@@ -1,6 +1,7 @@
 # Portfolio
 
 ### 📑 Table of Contents
+- [About Me](#about-me)
 - [Experience](#experience)
   - [Software Security Researcher at NCSU](#software-security-researcher-at-ncsu)
   - [Software Engineer Intern at Astro AI Trading (Startup)](#software-engineer-intern-at-astro-ai-trading-startup)
@@ -27,6 +28,16 @@
   - [HackPack](#hackpack)
   - [National Honor Society](#national-honor-society)
   - [Key Club](#key-club)
+
+# About Me
+
+I am a senior Computer Science student at North Carolina State University with a focus on cybersecurity, software engineering, and AI. My academic journey is complemented by hands-on experience in research, internships, and personal projects, allowing me to bridge theory with practical application.
+
+As a Software Security Researcher, I have contributed to multiple publications in IEEE conferences (ICDM, ACSAC, ASE) and Springer KAIS, focusing on cyberthreat intelligence, temporal attack patterns, and automated code analysis. I am passionate about using AI and machine learning to enhance security, automate analysis, and improve software reliability.
+
+Beyond research, I have gained industry experience as a Software Engineer Intern at Astro AI Trading, building backend systems in Go with PostgreSQL, and as a Resident Advisor, fostering community and mentoring students. I also actively participate in ethical hacking competitions and hands-on security labs through HackPack and TryHackMe.
+
+I thrive on learning, problem-solving, and building impactful software. Whether developing scalable applications, analyzing security threats, or mentoring peers, I approach challenges with curiosity, precision, and a collaborative mindset.
     
 # Experience
 
