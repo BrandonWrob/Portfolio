@@ -189,7 +189,7 @@ Implemented and optimized a variety of data structures from scratch in Java incl
 
 Developed and applied a comprehensive range of algorithms, including iterative, recursive, and sorting (Bubble, Insertion, Selection, Merge, Quick, Heap, Counting, Radix) techniques, alongside tree traversals and graph algorithms (Bi-Directional BFS, DFS, Minimum Spanning Trees, Shortest Paths). Leveraged computational paradigms such as Divide and Conquer, Brute-Force, Dynamic Programming, and Greedy Algorithms for optimized problem-solving.
 
-Worked on complexity analysis for space and efficiency by comparing hypothetical and real runtimes and space usage across diverse structures and algorithms. Found worst-case scenarios rarely accurate, while average case more accurate for large inputs; recursive structures proved unreliable for substantial data.
+Worked on complexity analysis for space and efficiency by comparing hypothetical and real runtimes and space usage across diverse structures and algorithms. Found worst-case scenarios rarely accurate, while average case more accurate for large inputs; recursive structures proved unreliable for substantial data. The paper can be found at [here](ExperimentReport.pdf)
 
 Note: This project is stored in a private repository due to regulations that prohibit posting course-related work publicly. However, I’m permitted to share and discuss the code during interviews with non-students—feel free to message me if you’re interested!
 
