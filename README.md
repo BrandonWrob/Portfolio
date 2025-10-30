@@ -185,7 +185,7 @@ Performed a comprehensive security assessment of OpenEMS using tools such as Bro
 
 ## Data-structure and Algorithm Workshops
 
-![Image_Failed](runtimes.png)
+![Image_Failed](Runtimes.png)
 
 Implemented and optimized a variety of data structures from scratch in Java including array-based lists and queues, linked lists, stacks, general and binary search trees, balanced search trees, up-trees, hash tables with advanced collision resolution techniques, heaps, and graph representations via adjacency lists and matrices
 
