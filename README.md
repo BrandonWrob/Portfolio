@@ -91,6 +91,8 @@ Publication Date: 9/12/2024
 
 Description: Cyberthreat intelligence (CTI) reports on past cyberattacks describe the sequence of actions of attackers in terms of time. The sequence contains temporal relations among attack actions, such as a malware is first downloaded and then executed. Information related to temporal relations enables cybersecurity practitioners to investigate past cyberattack incidents and analyze attackers' behavior. However, cybersecurity practitioners must extract such information automatically, in a structured manner, through a common vocabulary to reduce human effort and enable sharing, and collaboration. The goal of this paper is to aid security practitioners in proactive defense against attacks by automatic information extraction of temporal relations among attack actions from cyberthreat intelligence reports. We propose ChronoCTI, an automated pipeline for extracting temporal relations among attack actions from CTI reports. The attack actions are represented as MITRE ATT&CK techniques, and the relations are represented as a knowledge graph. To construct ChronoCTI, we build a ground truth dataset of temporal relations and apply large language models, natural language processing, and machine learning techniques. ChronoCTI demonstrates higher precision but lower recall performance on a real-world dataset of 94 CTI reports. ChronoCTI achieves macro precision, recall, and F1 scores of 0.75, 0.46, and 0.54, respectively. ChronoCTI aids practitioners in analyzing large volumes of CTI reports, thinking like attackers, and knowing what attack actions are likely to happen next, which enables the practitioners to assess imminent threats and strengthen their cybersecurity readiness.
 
+![Image_Failed](ChronoCTI_1.png)
+
 ## Towards a Taxonomy of Challenges in Security Control Implementation
 
 URL: https://ieeexplore.ieee.org/document/10917356
@@ -112,6 +114,8 @@ Publisher: Published in Knowledge and Information Systems by Springer Nature
 Publication Date: 5/13/2025
 
 Description: ChronoCTI is an automated system that extracts temporal relations among cyberattack actions from cyberthreat intelligence (CTI) reports. By mapping actions to MITRE ATT&CK techniques and structuring them as a knowledge graph, ChronoCTI helps security practitioners understand attacker behavior and support proactive defense. Built using large language models, NLP, and machine learning, ChronoCTI achieves high precision on real-world CTI data. Analysis of 713 reports revealed 124 recurring attack patterns across 9 categories, with the most common involving user deception and malware evasion. The findings support using ChronoCTI for designing defenses such as user training, system hardening, and automated detection of recurring threats.
+
+![Image_Failed](ChronoCTI_2.png)
  
 ## Build It Clean: Large-Scale Detection of Code Smells in Build Scripts
 
