@@ -1,9 +1,9 @@
 # Portfolio
 
 ### 📑 Table of Contents
-- [Project Overview](#project-overview)
+- [Personal Projects](#personal-projects)
   - [ExtendedManager](#extended-manager)
 
-# Project Overview
+# Personal Projects
 
 ## Extended Manager
