@@ -81,7 +81,7 @@ Description: Diligently served as a part-time Cashier at Harris Teeter while exc
 
 # Publications
 
-## ChronoCTI: Mining Knowledge Graph of Temporal Relations Among Cyberattack Actions published
+## ChronoCTI: Mining Knowledge Graph of Temporal Relations Among Cyberattack Actions
 
 URL: https://ieeexplore.ieee.org/document/10884120
 
