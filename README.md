@@ -10,6 +10,7 @@
   - [ExtendedManager](#extended-manager)
 - [Certifications](#certifications)
   - [CompTIA Security+](#comptia-security)
+  - [Pre Security Learning Path](#pre-security-learning-path)
     
 # Publications
 
@@ -90,6 +91,17 @@ Ongoing development includes enhanced analytics for managers and deeper AWS clou
 ## CompTIA Security+
 
 Issued: May 2025
+
 ID: COMP001022402515
+
 URL: https://www.credly.com/badges/8d4a48da-d53c-4da9-82f0-6be18a157091/linked_in_profile
+
 ![Image_Failed](sec+.png)
+
+## Pre Security Learning Path
+
+Issued: June 2025
+
+URL: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Z81AOD2FL9.png
+
+![Image_Failed](pre_sec.png)
