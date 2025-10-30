@@ -114,7 +114,21 @@ Description: "Build It Clean: Large-Scale Detection of Code Smells in Build Scri
 
 ## North Carolina State University
 
+Grade: SeniorGrade: Senior
+
+Activities and societies: Student Outreach Leader | Resident Advisor | Weight Lifting and Tennis | Research Assistant | HackPack Member
+
+Through coursework and collaboration with talented engineers, I developed applications from scratch, building a solid foundation in software engineering.
+
+In the cybersecurity field, I gained hands-on experience through security-focused courses, undergraduate research, and my involvement in HackPack. I participated in Capture the Flag (CTF) competitions, where I sharpened my skills, and contributed to my first publication in the field.
+
+Additionally, my involvement in group projects, research, and as a Resident Advisor helped me significantly improve my communication and conflict management skills, working closely with diverse teams to achieve shared goals.
+
+The NC State environment made this possible thanks to my peers, professors, and bosses—Go Pack!
+
 ## Leesville Road Highschool
+
+Activities and societies: Football | Key Club Member | National Honor Society Member | Part-Time Harris Teeter Associate
 
 # Personal Projects
 
