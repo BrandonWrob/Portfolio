@@ -1,7 +1,5 @@
 # Portfolio
 
-# About Me
-
 ![Image_Failed](photro.png)
 
 I am a senior Computer Science student at North Carolina State University with a focus on cybersecurity, software engineering, and AI. My academic journey is complemented by hands-on experience in research, internships, and personal projects, allowing me to bridge theory with practical application.
