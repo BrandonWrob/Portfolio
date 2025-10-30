@@ -7,6 +7,9 @@
   - [Resident Advisor at NCSU](#resident-advisor-at-ncsu)
   - [Summer Student Outreach Leader at NCSU](#summer-student-outreach-leader-at-ncsu)
   - [Cashier at Harris Teeter](#cashier-at-harris-teeter)
+- [Education](#education)
+  - [North Carolina State University](#north-carolina-state-university)
+  - [Leesville Road High School](#leesville-road-high-school)
 - [Publications](#publications)
   - [ChronoCTI: Mining Knowledge Graph of Temporal Relations Among Cyberattack Actions (ICDM, IEEE)](#chronocti-mining-knowledge-graph-of-temporal-relations-among-cyberattack-actions-icdm-ieee)
   - [Towards a Taxonomy of Challenges in Security Control Implementation (ACSAC, IEEE)](#towards-a-taxonomy-of-challenges-in-security-control-implementation-acsac-ieee)
@@ -106,6 +109,12 @@ Publisher: Published in the 2025 Conference on Automated Software Engineering (A
 Publication Date: 8/17/2025
 
 Description: "Build It Clean: Large-Scale Detection of Code Smells in Build Scripts", which has been accepted for IEEE ASE-2025 and will be presented in November 2025! The attached article is the rough draft of the paper, the official paper will be published in IEEE mid-October 2025. This study investigates code smells in build scripts, which automate software compilation, dependency management, testing, and packaging. Through qualitative analysis of 2,000 GitHub issues and static analysis of 5,882 build scripts from 4,877 repositories, we identified 13 categories of code smells, totaling 10,895 occurrences. Insecure URLs were most common in Maven, Hardcoded Paths/URLs in Gradle and CMake, and Wildcard Usage in Makefiles. Co-occurrence patterns revealed structural issues, such as links between hardcoded paths and duplicates. We propose mitigation strategies to enhance build script reliability, efficiency, and maintainability.
+
+# Education
+
+## North Carolina State University
+
+## Leesville Road Highschool
 
 # Personal Projects
 
