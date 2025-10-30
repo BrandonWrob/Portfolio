@@ -14,6 +14,10 @@
 - [Certifications](#certifications)
   - [CompTIA Security+](#comptia-security)
   - [Pre Security Learning Path](#pre-security-learning-path)
+- [Organizations](#organizations)
+  - [HackPack](#hackpack)
+  - [National Honor Society](#national-honor-society)
+  - [Key Club)[#key-club)
     
 # Publications
 
@@ -157,3 +161,17 @@ Issued: June 2025
 URL: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Z81AOD2FL9.png
 
 ![Image_Failed](pre_sec.png)
+
+# Organizations
+
+## HackPack
+
+Current member of HackPack at NCSU, where I actively attend weekly meetings and workshops, and participate in Capture the Flag (CTF) challenges to gain practical experience in ethical hacking.
+
+## National Honor Society
+
+Was a member of the National Honor Society (NHS), where I attended weekly meetings and volunteered at various events to help out the school.
+
+## Key Club
+
+Was a member of Key Club in highschool at Leesville Road High School, where I engaged in volunteer work both within my school and in the community, including organizations such as the Raleigh Tennis Association and events like the State Fair.
