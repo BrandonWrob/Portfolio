@@ -133,6 +133,11 @@ This implementation emphasizes portability and transparency, using only standard
 
 Note: This project is stored in a private repository due to regulations that prohibit posting course-related work publicly. However, I’m permitted to share and discuss the code during interviews with non-students—feel free to message me if you’re interested!
 
+![Image_Failed](SHA-1.png)
+![Image_Failed](SHA-2.png)
+![Image_Failed](SHA-3.png)
+![Image_Failed](SHA-4.png)
+
 # Certifications
 
 ## CompTIA Security+
