@@ -1,8 +1,14 @@
 # Portfolio
 
 ### 📑 Table of Contents
+- [Publications](#publications)
+  - [ChronoCTI: Mining Knowledge Graph of Temporal Relations Among Cyberattack Actions](#chronocti-mining-knowledge-graph-of-temporal-relations-among-cyberattack-actions)
 - [Personal Projects](#personal-projects)
   - [ExtendedManager](#extended-manager)
+
+# Publications
+
+## ChronoCTI: Mining Knowledge Graph of Temporal Relations Among Cyberattack Actions
 
 # Personal Projects
 
