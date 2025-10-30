@@ -8,6 +8,7 @@
   - [Build It Clean: Large-Scale Detection of Code Smells in Build Scripts (ASE, IEEE)](#build-it-clean-large-scale-detection-of-code-smells-in-build-scripts-ase-ieee)
 - [Personal Projects](#personal-projects)
   - [ExtendedManager](#extended-manager)
+  - [Security Home-Labs](#security-home-labs)
 - [Certifications](#certifications)
   - [CompTIA Security+](#comptia-security)
   - [Pre Security Learning Path](#pre-security-learning-path)
@@ -85,6 +86,16 @@ Ongoing development includes enhanced analytics for managers and deeper AWS clou
 ![Image_Failed](Entity_DTO_Mapper_Repo.png)
 ![Image_Failed](Config_Security_Exception.png)
 ![Image_Failed](Service_Impl_Controller.png)
+
+## Security Home-Labs
+
+When I have free time I try to engaged on TryHackMe (Account: https://tryhackme.com/p/Bnwrob); completed the Pre-Security track and currently progressing through the Cyber Security 101 path.
+
+Active member of the HackPack club where I participate in CTF tournaments to hone my security skills. Have participated in Knight CTF 2025, x3CTF 2025, Hackpack CTF 2025.
+
+Conducted hands-on testing of security vulnerabilities including injection attacks (SQL, XSS, shellcode), request forgeries (CSRF, SSRF), broken access controls, and weak encryption. Also performed binary reverse engineering of ELF files using Ghidra.
+
+Performed a comprehensive security assessment of OpenEMS using tools such as Browser DevTools, OWASP Dependency-Check, OWASP ZAP, and Snyk, identifying 93 vulnerable dependencies, insecure session expiration, login-related denial-of-service risks, insufficient server-side validation, and MIME sniffing vulnerabilities—all of which were reported and accepted via their GitHub repository.
 
 # Certifications
 
