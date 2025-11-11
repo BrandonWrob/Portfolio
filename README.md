@@ -26,7 +26,7 @@ I thrive on learning, problem-solving, and building impactful software. Whether 
   - [Mining Temporal Attack Patterns from Cyberthreat Intelligence Reports (Knowledge and Information Systems, Springer Nature)](#mining-temporal-attack-patterns-from-cyberthreat-intelligence-reports)
   - [Build It Clean: Large-Scale Detection of Code Smells in Build Scripts (ASE, IEEE)](#build-it-clean-large-scale-detection-of-code-smells-in-build-scripts)
 - [Personal Projects](#personal-projects)
-  - [ExtendedManager](#extended-manager)
+  - [Inventory and Staff Management Platform](#inventory-and-staff-management-platform)
   - [Security Home-Labs](#security-home-labs)
   - [Data-structure and Algorithm Workshops](#data-structure-and-algorithm-workshops)
   - [Implemented SHA-256 in C](#implemented-sha-256-in-c)
@@ -156,7 +156,7 @@ Activities and societies: Football | Key Club Member | National Honor Society Me
 
 # Personal Projects
 
-## Extended Manager
+## Inventory and Staff Management Platform
 
 ### Link
 https://github.com/BrandonWrob/ExtendedManager
