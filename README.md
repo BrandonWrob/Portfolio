@@ -1,7 +1,5 @@
 # Brandon Wroblewski's Portfolio
 
-![Image_Failed](photro.png)
-
 I am a senior Computer Science student at North Carolina State University with a focus on cybersecurity, software engineering, and AI. My academic journey is complemented by hands-on experience in research, internships, and personal projects, allowing me to bridge theory with practical application.
 
 As a Software Security Researcher, I have contributed to multiple publications in IEEE conferences (ICDM, ACSAC, ASE) and Springer KAIS, focusing on cyberthreat intelligence, temporal attack patterns, and automated code analysis. I am passionate about using AI and machine learning to enhance security, automate analysis, and improve software reliability.
@@ -145,7 +143,7 @@ Additionally, my involvement in group projects, research, and as a Resident Advi
 
 The NC State environment made this possible thanks to my peers, professors, and bosses—Go Pack!
 
-![Image_Failed](RA_Group_Photo.png)
+
 
 ## Leesville Road High School
 
