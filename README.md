@@ -151,6 +151,16 @@ Activities and societies: Football | Key Club Member | National Honor Society Me
 
 # Personal Projects
 
+## NCSU Advising Chatbox
+![Image_Failed](Tuffy_Bot_Design.png)
+
+- Designing the architecture for a CSC advising chatbot at NCSU, supporting 2,000+ Computer Science students during enrollment, with a scalable design intended to support up to 40,000 students and future department expansion.
+- Meeting weekly with project sponsors to align on budget, system design, and operational constraints.
+- Prioritizing horizontal scalability and modular architecture to enable multi-department and multi-purpose expansion.
+- Developing a Retrieval-Augmented Generation (RAG) pipeline with intent-based query routing, vector search, and metadata filtering.
+- Integrating NCSU authentication and implementing advisor audit logging to manage access control and trace advising activity.
+- Implementing automated data scraping with document hashing and incremental embedding updates to maintain data freshness and efficiency.
+
 ## Inventory and Staff Management Platform
 
 ### Link
